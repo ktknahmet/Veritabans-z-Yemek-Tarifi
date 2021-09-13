@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802661071595",
+    "project_id": "yemektarifi-16283",
+    "storage_bucket": "yemektarifi-16283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802661071595:android:5598fb11fc7c4a92a21cae",
+        "android_client_info": {
+          "package_name": "com.example.yemek_tarifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802661071595-gqeta30bphthfklafn5iidpu6ondv9sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHuqG5udvycjXl-EUc6tEXUEG_Z4CJFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802661071595-gqeta30bphthfklafn5iidpu6ondv9sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
